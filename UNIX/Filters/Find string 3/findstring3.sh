@@ -1,1 +1,1 @@
-grep -n lin teknoscript.txt
+grep -n "lin" teknoscript.txt
